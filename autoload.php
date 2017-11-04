@@ -12,5 +12,5 @@ $merkl = new Person("dumm", "wie brot" , 100);
 echo "<pre>";
 print_r($merkl);
 echo "</pre>";
-echo "Eine neue Person mit alter $merkl->age"
+echo "Eine neue Person mit Alter $merkl->age"
 ?>
